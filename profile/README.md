@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://histotalkv2.netlify.app/">
+  <a href="https://histotalk.netlify.app/">
     <img src="https://img.shields.io/badge/Histotalk🌐-Visit-blue.svg?style=for-the-badge&logo=google-chrome" alt="Visit Histotalk"/>
   </a>
 </p>
@@ -68,4 +68,4 @@ Melalui pendekatan ini, pengguna tidak hanya membaca informasi sejarah, tetapi j
 
 ---
 
-> 🚀 [Kunjungi Histotalk Sekarang](https://histotalkv2.netlify.app/)
+> 🚀 [Kunjungi Histotalk Sekarang](https://histotalk.netlify.app/)
