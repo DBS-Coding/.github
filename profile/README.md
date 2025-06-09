@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://histotalk.netlify.app/">
+  <a href="https://histotalk.vercel.app">
     <img src="https://img.shields.io/badge/Histotalk🌐-Visit-blue.svg?style=for-the-badge&logo=google-chrome" alt="Visit Histotalk"/>
   </a>
 </p>
