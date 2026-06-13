@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://histotalk.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Histotalk-Visit%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Histotalk"/></a>
+  <a href="https://histotalk-v2.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Histotalk-Visit%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Histotalk"/></a>
   <a href="https://youtu.be/DqF4mv8FOJ8" target="_blank"><img src="https://img.shields.io/badge/YouTube-Video%20Presentation-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Presentation"/></a>
   <a href="https://drive.google.com/drive/folders/12bRBcwSWG_DcOhbCoZpavoiAbJPJpMQt?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google%20Drive-Project%20Files-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive"/></a>
 </p>
